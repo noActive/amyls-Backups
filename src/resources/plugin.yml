@@ -1,0 +1,9 @@
+name: amyls-Backups
+main: xyz.amyls.backups.BackupPlugin
+version: 1.0
+
+author: amyls.
+
+commands:
+  backup:
+    aliases: ["skurwesyn", "bakup", "smiec", "cofnijmuitki"]
